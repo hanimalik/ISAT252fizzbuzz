@@ -1,2 +1,2 @@
-# fizzbuzz
-Fizzbuzz project for ISAT 252.
+# Fizzbuzz Example of TDD- Fall 2021
+Fizzbuzz python program for ISAT 252.
